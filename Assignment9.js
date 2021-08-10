@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@AkritiChaudhary 
-Ayushman09
-/
-js-training
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-js-training/findThePokemon.js /
-@Ayushman09
-Ayushman09 Assignment 9
-Latest commit 017531c on Apr 29
- History
- 1 contributor
-919 lines (917 sloc)  31.3 KB
- 
 var pokeapi =
 {
     "abilities": [
